@@ -1,4 +1,4 @@
-# yandex_clickhouse_excel_addin
+# yandex clickhouse excel addin
 Excel addin for yandex clickhouse YACH 
 
  Простой клиент для доступа к данным в ClickHouse из Excel
